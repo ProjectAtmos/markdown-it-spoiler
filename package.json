@@ -1,7 +1,7 @@
 {
-  "name": "@traptitech/markdown-it-spoiler",
+  "name": "markdown-it-spoiler",
   "version": "1.1.4",
-  "description": "!!spoiler!! plugin for markdown-it markdown parser",
+  "description": "||spoiler|| plugin for markdown-it markdown parser",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/traPtitech/markdown-it-spoiler.git"
+    "url": "git+https://github.com/ProjectAtmos/markdown-it-spoiler.git"
   },
   "keywords": [
     "markdown-it",
@@ -19,9 +19,9 @@
   "author": "sapphi-red <green@sapphi.red> (https://github.com/sapphi-red)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/traPtitech/markdown-it-spoiler/issues"
+    "url": "https://github.com/ProjectAtmos/markdown-it-spoiler/issues"
   },
-  "homepage": "https://github.com/traPtitech/markdown-it-spoiler#readme",
+  "homepage": "https://github.com/ProjectAtmos/markdown-it-spoiler#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/markdown-it": "*",
