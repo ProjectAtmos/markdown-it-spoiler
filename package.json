@@ -22,7 +22,6 @@
     "url": "https://github.com/ProjectAtmos/markdown-it-spoiler/issues"
   },
   "homepage": "https://github.com/ProjectAtmos/markdown-it-spoiler#readme",
-  "dependencies": {},
   "devDependencies": {
     "@types/markdown-it": "*",
     "jest": "^26.0.1",
